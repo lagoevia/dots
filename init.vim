@@ -23,6 +23,7 @@ Plug 'jremmen/vim-ripgrep'
 Plug 'vim-utils/vim-man'
 Plug 'kien/ctrlp.vim'
 Plug 'mbbill/undotree'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 call plug#end()
 
